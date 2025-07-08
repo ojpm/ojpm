@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojpm
 - 👀 I’m interested in IT, IT architcture, metal and craft beer
-- 🌱 I’m currently learning Red Hat System Admin and various Raspberry Pi projects
+- 🌱 I’m currently learning some of the basics of software engineering practices
 - 💞️ I’m looking to collaborate on not a lot atm as I'm just learning
 
 <!---
